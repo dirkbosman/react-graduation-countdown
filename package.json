@@ -2,7 +2,8 @@
   "name": "react-countdown",
   "version": "0.0.1",
   "description": "React Countdown till Christmas",
-  "repository": "https://github.com/kristinbaumann/react-countdown",
+  "repository": "https://github.com/dirkbosman/react-graduation-countdown",
+  "homepage": "https://dirkbosman.github.io/react-graduation-countdown/",
   "devDependencies": {
     "react-scripts": "0.8.4"
   },
