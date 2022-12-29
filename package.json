@@ -5,7 +5,7 @@
   "repository": "https://github.com/dirkbosman/react-graduation-countdown",
   "homepage": "https://dirkbosman.github.io/react-graduation-countdown/",
   "devDependencies": {
-    "react-scripts": "0.8.4"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "gh-pages": "^3.1.0",
